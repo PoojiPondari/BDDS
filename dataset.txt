@@ -1,0 +1,7 @@
+# Dataset from kaggle
+https://www.kaggle.com/code/ernestkiwele/chicago-crime-analysis-on-apache-spark/input?select=Chicago_Crimes_2012_to_2017.csv
+
+#Dataset from city of chicago: 2001-present dataset
+https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
+
+Download and paste the dataset in Dataset directory ! huge files 4 differrent
